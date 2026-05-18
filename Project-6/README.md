@@ -1,4 +1,5 @@
 # Inventory Management System
+
 This Excel project was created to manage inventory data, track stock levels, and calculate inventory value using Excel formulas and spreadsheet tools.
 
 ## Project Overview
