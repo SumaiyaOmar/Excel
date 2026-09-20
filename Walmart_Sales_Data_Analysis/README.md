@@ -120,23 +120,17 @@ The final Excel dashboard presents:
 - Interactive Monthly Sales by Store
 - Store slicer for interactive analysis
 
-![Sales Forecasting Dashboard](screenshots/dashboard.png)
-
 ---
 
 ## Analysis
 
 A dedicated analysis sheet summarizes historical performance, model performance, the future sales outlook, and key business insights.
 
-![Sales Forecasting Analysis](screenshots/analysis.png)
-
 ---
 
 ## Forecast Model
 
 The forecasting worksheet contains the train/test structure, forecast calculations, error measurements, model evaluation metrics, and future forecast values.
-
-![Excel Forecast Model](screenshots/forecast-model.png)
 
 ---
 
